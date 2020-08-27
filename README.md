@@ -30,13 +30,13 @@ Será necessário construir algumas funcionalidades para este módulo.
 
 Uma delas será o _Cadastro de Vacinas_.
 
-_Para cadastrar uma vacina, algumas informações são necessárias:_
+### _Para cadastrar uma vacina, algumas informações são necessárias:_
 - Nome da vacina (Com no máximo 80 caracteres)
 - Recomendações gerais da vacina. (Texto com até 1.000 caracteres)
 - Faixa de idades em que a vacina é recomendada.
 - Um indicador se existe campanha ativa para vacinação (sim ou não)
 
-_Algumas regras complementares:_
+### _Algumas regras complementares:_
 - Para a faixa de idades, considere que uma vacina pode ser somente recomendada a partir de uma certa idade, por exemplo 60 anos.
 - Algumas vacinas, ao contrário da anterior, somente são recomendadas até uma certa idade, por exemplo, 15 anos.
 - E ainda algumas vacinas são válidas para um certo período da vida, como por exemplo, entre 20 e 60 anos.
