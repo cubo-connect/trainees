@@ -6,7 +6,7 @@ Aqui será passadas as instruções para você realizar o seu teste, e quem sabe
 
 Desde já, te desejo Boa Sorte!!!
 
-# As Instruções Iniciais
+# 1. As Instruções Iniciais
 
 Para realizar o teste você deverá criar um repositório privado no seu github.
 
@@ -16,7 +16,7 @@ Não é necessário que o cubo-connect possua acesso de escrita, apenas de leitu
 
 O acesso pode ser concedido em qualquer momento, no início ou no término do desenvolvimento da solução. Fica a seu critério.
 
-# O Teste
+# 2. O Teste
 
 Uma empresa de gestão de saúde, quer fazer um software de administração de vacinas de seus clientes.
 
@@ -54,7 +54,7 @@ Você pode armazenar os dados em um banco de dados relacional, ou um banco de da
 
 Não é necessário criar testes automatizados.
 
-# Submeter para Avaliação
+# 3. Submeter para Avaliação
 
 Como já citado anteriormente, você deverá criar um repositório em seu github para versionar o código-fonte da solução.
 
